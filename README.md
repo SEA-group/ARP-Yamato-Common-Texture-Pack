@@ -15,3 +15,6 @@ This is a complement of [ARP Yamato](https://github.com/SEA-group/ARP-Yamato) an
 ## 使用方法
 * **WG游戏中心用户**请把`content`放到`[游戏安装目录]/bin/[数字最大的那个]/res_mods/`里面
 * **Steam客户端用户**请把`content`放到`steamapps/common/World of Warships/bin/[数字最大的那个]/res_mods/`里面
+
+## Preview
+![ARP-Yamato-Common-Texture-Pack](https://raw.githubusercontent.com/SEA-group/ARP-Yamato-Common-Texture-Pack/master/Affiche.jpg)
